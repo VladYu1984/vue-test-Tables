@@ -1,5 +1,7 @@
 # tables-app
 
+В данном проекте реализовал тестовое задание
+
 ## Project setup
 ```
 npm install
